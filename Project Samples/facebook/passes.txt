@@ -1,0 +1,9 @@
+
+charset_test=€,´,€,´,水,Д,Є
+lsd=
+locale=en_US
+email=gupta.prakhar1008@gmail.com
+pass=prakhar1008
+persistent=1
+default_persistent=0
+

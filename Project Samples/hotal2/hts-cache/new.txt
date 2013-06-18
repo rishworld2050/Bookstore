@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:41:57	127469/127469	---M--	200	added ('OK')	text/html	date:Wed,%2027%20Feb%202013%2020:10:53%20GMT	http://www.zomato.com/ncr/restaurants/noida	C:/My%20Web%20Sites/hotal2/www.zomato.com/ncr/restaurants/noida.html	(from )
+01:41:58	1265/1265	---M--	200	added ('OK')	text/plain	etag:%22190ae42-4f1-4d622d0022a12%22	http://www.zomato.com/robots.txt		(from )
+01:41:58	1068/1068	---M--	200	added ('OK')	image/png	etag:%222018f3-42c-4d0283c6eb480%22	http://4b.zmtcdn.com/images/sponsored.png	C:/My%20Web%20Sites/hotal2/4b.zmtcdn.com/images/sponsored.png	(from )
+01:41:59	6702/6702	---M--	200	added ('OK')	image/jpeg	etag:%2212445bf-1a2e-4d622a60dd880%22	http://4b.zmtcdn.com/data/zas_photos/b4c15c97f975fa27f5e0bd1fc8d090c2.jpg	C:/My%20Web%20Sites/hotal2/4b.zmtcdn.com/data/zas_photos/b4c15c97f975fa27f5e0bd1fc8d090c2.jpg	(from )
+01:41:59	6507/6507	---M--	200	added ('OK')	image/jpeg	etag:%2212439c2-196b-4d622715d1380%22	http://4b.zmtcdn.com/data/zas_photos/1620c9fe772e3986e94fa47dc59f5a23.jpg	C:/My%20Web%20Sites/hotal2/4b.zmtcdn.com/data/zas_photos/1620c9fe772e3986e94fa47dc59f5a23.jpg	(from )
+01:42:00	9636/9636	---M--	200	added ('OK')	image/png	etag:%221243f3e-25a4-4d62289bdebc0%22	http://4b.zmtcdn.com/data/zas_photos/5ec28b7322133317e46e11df5419b89b.png	C:/My%20Web%20Sites/hotal2/4b.zmtcdn.com/data/zas_photos/5ec28b7322133317e46e11df5419b89b.png	(from )

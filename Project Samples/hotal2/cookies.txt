@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.zomato.com	TRUE	/	FALSE	1999999999	PHPSESSID	rol3u0pbdh8jjt9ettp7cb8ou2
+.zomato.com	TRUE	/	FALSE	1999999999	fbcity	1
+.zomato.com	TRUE	/	FALSE	1999999999	fbtrack	44172f888226463e95b26b7ea8777ec9512e684d806800.15741625
+.zomato.com	TRUE	/	FALSE	1999999999	adref	deleted
+.zomato.com	TRUE	/	FALSE	1999999999	searchurl	http%3A%2F%2Fwww.zomato.com%2Fncr%2Frestaurants%2Fnoida
+.zomato.com	TRUE	/	FALSE	1999999999	adcategory	0
+.zomato.com	TRUE	/	FALSE	1999999999	zone	1
+

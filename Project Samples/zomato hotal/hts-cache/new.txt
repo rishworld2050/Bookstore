@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:43:48	1265/1265	---M--	200	added ('OK')	text/plain	etag:%22190ae42-4f1-4d622d0022a12%22	http://www.zomato.com/robots.txt		(from )
+01:43:49	61942/61942	---M--	200	added ('OK')	text/html	date:Wed,%2027%20Feb%202013%2020:12:44%20GMT	http://www.zomato.com/	C:/My%20Web%20Sites/zomato%20hotal/www.zomato.com/index.html	(from )
+01:43:50	1594/1594	---M--	200	added ('OK')	image/gif	etag:%222017b8-63a-4d0283c5f7240%22	http://4b.zmtcdn.com/images/floading.gif	C:/My%20Web%20Sites/zomato%20hotal/4b.zmtcdn.com/images/floading.gif	(from )
+01:43:51	1764/1764	---M--	200	added ('OK')	image/png	etag:%222016c2-6e4-0%22	http://4b.zmtcdn.com/ap-1/avatar_100_1x.png	C:/My%20Web%20Sites/zomato%20hotal/4b.zmtcdn.com/ap-1/avatar_100_1x.png	(from )
+01:43:51	42/42	---M--	200	added ('OK')	image/gif	etag:%2220188f-2a-4d0283c5f7240%22	http://4b.zmtcdn.com/images/pixel.gif	C:/My%20Web%20Sites/zomato%20hotal/4b.zmtcdn.com/images/pixel.gif	(from )
+01:43:52	9273/9273	---M--	200	added ('OK')	image/jpeg	etag:%22201994-2439-4d6b0cc899740%22	http://4b.zmtcdn.com/images/catering_grey.jpg	C:/My%20Web%20Sites/zomato%20hotal/4b.zmtcdn.com/images/catering_grey.jpg	(from )
